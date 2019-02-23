@@ -3,7 +3,7 @@ HM-01
 
 CODEPEN link: https://codepen.io/aleksandar-georgievski97/pen/xMvrXZ
 
-===================================================
+
 HM-02
 
 CODEPEN link: https://codepen.io/aleksandar-georgievski97/pen/PVMjKE
