@@ -11,3 +11,16 @@ CODEPEN link: https://codepen.io/aleksandar-georgievski97/pen/PVMjKE
 HM-03
 
 CODEPEN link: https://codepen.io/aleksandar-georgievski97/pen/gEbRWP
+
+HM-05{
+HM-01
+CODEPEN link: https://codepen.io/aleksandar-georgievski97/pen/gEbRWP
+
+HM-02
+CODEPEN link: https://codepen.io/aleksandar-georgievski97/pen/MxeeaM
+
+HM-03(bonus)
+CODEPEN link: https://codepen.io/aleksandar-georgievski97/pen/JzKKXK
+}
+
+
